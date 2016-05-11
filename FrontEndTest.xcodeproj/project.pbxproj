@@ -14,6 +14,12 @@
 		D18B3F6A1CE3B04D00DD87DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D18B3F681CE3B04D00DD87DE /* Main.storyboard */; };
 		D18B3F6C1CE3B04D00DD87DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D18B3F6B1CE3B04D00DD87DE /* Assets.xcassets */; };
 		D18B3F6F1CE3B04D00DD87DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D18B3F6D1CE3B04D00DD87DE /* LaunchScreen.storyboard */; };
+		D18B3F7C1CE3B14100DD87DE /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = D18B3F761CE3B14100DD87DE /* camera.png */; };
+		D18B3F7D1CE3B14100DD87DE /* camera@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D18B3F771CE3B14100DD87DE /* camera@2x.png */; };
+		D18B3F7E1CE3B14100DD87DE /* friends.png in Resources */ = {isa = PBXBuildFile; fileRef = D18B3F781CE3B14100DD87DE /* friends.png */; };
+		D18B3F7F1CE3B14100DD87DE /* friends@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D18B3F791CE3B14100DD87DE /* friends@2x.png */; };
+		D18B3F801CE3B14100DD87DE /* inbox.png in Resources */ = {isa = PBXBuildFile; fileRef = D18B3F7A1CE3B14100DD87DE /* inbox.png */; };
+		D18B3F811CE3B14100DD87DE /* inbox@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D18B3F7B1CE3B14100DD87DE /* inbox@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +35,12 @@
 		D18B3F6B1CE3B04D00DD87DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D18B3F6E1CE3B04D00DD87DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D18B3F701CE3B04D00DD87DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D18B3F761CE3B14100DD87DE /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera.png; sourceTree = "<group>"; };
+		D18B3F771CE3B14100DD87DE /* camera@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "camera@2x.png"; sourceTree = "<group>"; };
+		D18B3F781CE3B14100DD87DE /* friends.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = friends.png; sourceTree = "<group>"; };
+		D18B3F791CE3B14100DD87DE /* friends@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "friends@2x.png"; sourceTree = "<group>"; };
+		D18B3F7A1CE3B14100DD87DE /* inbox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = inbox.png; sourceTree = "<group>"; };
+		D18B3F7B1CE3B14100DD87DE /* inbox@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "inbox@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +57,12 @@
 		D18B3F501CE3B04D00DD87DE = {
 			isa = PBXGroup;
 			children = (
+				D18B3F761CE3B14100DD87DE /* camera.png */,
+				D18B3F771CE3B14100DD87DE /* camera@2x.png */,
+				D18B3F781CE3B14100DD87DE /* friends.png */,
+				D18B3F791CE3B14100DD87DE /* friends@2x.png */,
+				D18B3F7A1CE3B14100DD87DE /* inbox.png */,
+				D18B3F7B1CE3B14100DD87DE /* inbox@2x.png */,
 				D18B3F5B1CE3B04D00DD87DE /* FrontEndTest */,
 				D18B3F5A1CE3B04D00DD87DE /* Products */,
 			);
@@ -142,8 +160,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				D18B3F6F1CE3B04D00DD87DE /* LaunchScreen.storyboard in Resources */,
+				D18B3F7E1CE3B14100DD87DE /* friends.png in Resources */,
+				D18B3F7F1CE3B14100DD87DE /* friends@2x.png in Resources */,
+				D18B3F7D1CE3B14100DD87DE /* camera@2x.png in Resources */,
+				D18B3F801CE3B14100DD87DE /* inbox.png in Resources */,
 				D18B3F6C1CE3B04D00DD87DE /* Assets.xcassets in Resources */,
+				D18B3F7C1CE3B14100DD87DE /* camera.png in Resources */,
 				D18B3F6A1CE3B04D00DD87DE /* Main.storyboard in Resources */,
+				D18B3F811CE3B14100DD87DE /* inbox@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
